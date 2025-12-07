@@ -229,14 +229,7 @@ java -cp bin tests.SalesDataAnalyzerTest
 
 ## Running Everything at Once
 
-To compile and run all assignments with tests:
-
-```bash
-# From repository root
-./run_all.sh
-```
-
-Or manually:
+Below are the manual steps to compile and run both assignments, including their tests.
 
 ```bash
 # Assignment 1
@@ -251,7 +244,7 @@ cd ../assignment2
 javac -d bin src/**/*.java
 java -cp bin App
 java -cp bin tests.SalesDataAnalyzerTest
-```
+
 
 ## Author
 
