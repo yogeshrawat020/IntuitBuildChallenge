@@ -8,7 +8,7 @@ import java.util.*;
 
 /**
  * Unit tests for SalesDataAnalyzer - NO FRAMEWORKS NEEDED
- * Run with: java utils.SalesDataAnalyzerTest
+ * Run with: java -cp bin tests.SalesDataAnalyzerTest
  */
 public class SalesDataAnalyzerTest {
     

@@ -55,7 +55,7 @@ Both assignments demonstrate best practices, comprehensive testing, and clean co
 ## Project Structure
 
 ```
-build-challenges/
+IntuitBuildChallenge/
 ├── README.md                          # This file
 ├── assignment1/                       # Producer-Consumer Pattern
 │   ├── README.md                     # Assignment 1 documentation
@@ -247,12 +247,10 @@ java -cp bin tests.SalesDataAnalyzerTest
 
 
 ## Author
-
 [Yogesh Rawat]
 
 ## License
 This project was created as a submission for the Intuit Build Challenge.
 
 ## Acknowledgments
-
 Solutions implement requirements specified in the Intuit Build Challenge documentation.
