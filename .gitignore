@@ -1,0 +1,78 @@
+# =========================
+# Java build artifacts
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+
+# Compiled bytecode
+bin/
+out/
+build/
+
+# Maven / Gradle (if used in future)
+target/
+.gradle/
+*.log
+!gradle-wrapper.jar
+.mvn/
+
+# =========================
+# VS Code settings
+# =========================
+.vscode/
+.settings/
+
+# Java debug
+*.launch
+
+# =========================
+# OS-specific files
+# =========================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# =========================
+# Temporary & cache files
+# =========================
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.cache
+*.class
+*.iml
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Environment / credentials
+# =========================
+.env
+.env.local
+
+# =========================
+# Java project specific
+# =========================
+# Ignore IntelliJ IDEA files if you ever open in IDEA
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# Ignore Eclipse files if using Eclipse in future
+.project
+.classpath
+.settings/
