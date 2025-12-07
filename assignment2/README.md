@@ -209,5 +209,5 @@ Tests use plain assertions — **no external testing frameworks required**.
 
 ## GitHub Repository
 
-[https://github.com/Neeraj-Koshyari/Assignment](https://github.com/Neeraj-Koshyari/Assignment)
+[https://github.com/yogeshrawat020/IntuitBuildChallenge/](https://github.com/yogeshrawat020/IntuitBuildChallenge/)
 

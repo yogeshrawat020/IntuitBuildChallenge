@@ -95,8 +95,8 @@ build-challenges/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/build-challenges.git
-cd build-challenges
+git clone https://github.com/yogeshrawat020/IntuitBuildChallenge.git
+cd IntuitBuildChallenge
 ```
 
 ### Run Assignment 1 (Producer-Consumer)
@@ -255,11 +255,10 @@ java -cp bin tests.SalesDataAnalyzerTest
 
 ## Author
 
-[Your Name]
+[Yogesh Rawat]
 
 ## License
-
-This project is submitted as part of the Intuit Build Challenge assessment.
+This project was created as a submission for the Intuit Build Challenge.
 
 ## Acknowledgments
 
